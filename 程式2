@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>個人履歷</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>姓名：陳昱泓</h1>
+        <img src="https://via.placeholder.com/150" alt="個人照片">
+    </header>
+    
+    <section id="resume">
+        <h2>簡歷</h2>
+        <p>參考網路教學</p>
+    </section>
+    
+    <section id="education">
+        <h2>學歷</h2>
+        <ul>
+            <li>國立台灣大學，學系</li>
+        </ul>
+    </section>
+    
+    <section id="experience">
+        <h2>經歷</h2>
+        <ul>
+            <li>學生，2023 - 現在</li>
+        </ul>
+    </section>
+    
+    <section id="skills">
+        <h2>專業能力</h2>
+        <ul>
+            <li>
+        </ul>
+    </section>
+    
+    <section id="projects">
+        <h2>參與專案 / 活動 / 作品</h2>
+        <ul>
+            <li>無</li>
+
+                   </ul>
+    </section>
+    
+    <section id="awards">
+        <h2>榮譽 / 獎項</h2>
+        <ul>
+            <li>無</li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>聯絡方式</h2>
+        <p>Email: 11204127@GM.NTTU.EDU.TW</p>
+        <p>電話: 0912345678</p>
+    </section>
+    
+    <footer>
+        <p>© 2024 陳昱泓. 版權所有.</p>
+    </footer>
+</body>
+</html>
